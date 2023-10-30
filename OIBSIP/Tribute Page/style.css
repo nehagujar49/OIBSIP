@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Montagu+Slab:opsz@16..144&family=Montserrat:ital,wght@1,700&family=Tilt+Neon&family=Ubuntu:wght@500&display=swap');
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Tilt Neon', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(15, 14, 14);
+    color: aliceblue;
+}
+.row{
+    padding: 20px;
+    text-align: center;
+}
+.row h1{
+    color: rgb(255, 166, 0);
+    font-size: 50px;
+}
+.row p{
+    color:white;
+    font-size: 20px;
+}
+.img{
+    display: inline-block;
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+}
+
+.col{
+    float: left;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    color: rgb(36, 143, 36);
+}
+.content ul li{
+    margin-top: 50px;
+    list-style-position: inside; 
+    font-size: 25px;
+}
+h2 a{
+    color: aqua;
+}
+
